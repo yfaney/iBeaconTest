@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<pre-dex-items>
+<items version="2" >
 
     <item
-        dex="C:\Users\Younghwan\SkyDrive\Development\AndroidStudio\iBeaconTest\app\build\intermediates\pre-dexed\debug\classes-96cb1a55b3504ff6419bbf4528c71c3504676de9.jar"
-        jar="C:\Users\Younghwan\SkyDrive\Development\AndroidStudio\iBeaconTest\app\build\intermediates\exploded-aar\iBeaconTest\android-beacon-library-2.0-beta7\unspecified\classes.jar"
+        jar="C:\Users\Younghwan\Documents\GitHub\iBeaconTest\app\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.1.4\classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="55185201b2b30935765d834d31afaf66a56130e8"/>
+        revision="21.1.2"
+        sha1="fc2b4fa86d40b71af744611751543dfe079eff58">
+        <dex dex="C:\Users\Younghwan\Documents\GitHub\iBeaconTest\app\build\intermediates\pre-dexed\debug\classes-e60b8392a8f8d5ea6a9c67f4a9fb491ac0db366f.jar" />
+    </item>
 
-</pre-dex-items>
+</items>
